@@ -1,0 +1,118 @@
+{"quizlist":[
+  
+	{
+	"question":"What do you see?",
+	"option1":"2",
+	"option2":"3",
+	"option3":"5",
+		"option4":"Nothing",
+		"normal":"5",
+		"protanopia":"2",
+		"deuter" :""
+
+	},
+	{
+		"question":"What do you see?",
+	"option1":"5",
+	"option2":"3",
+	"option3":"8",
+		"option4":"Nothing",
+		"normal":"3",
+		"protanopia":"5",
+		"deuter" :""
+
+	},
+	{
+		"question":"What do you see?",
+	"option1":"17",
+	"option2":"15",
+	"option3":"9",
+		"option4":"Nothing",
+		"normal":"15",
+		"protanopia":"17",
+		"deuter" :""
+
+	},
+	{
+		"question":"What do you see?",
+		"option1":"21",
+		"option2":"74",
+		"option3":"7",
+		"option4":"Nothing",
+		"normal":"74",
+		"protanopia":"21",
+		"deuter" :""
+
+	},
+	{
+		"question":"What do you see?",
+		"option1":"2",
+		"option2":"6",
+		"option3":"26",
+		"option4":"Nothing",
+		"normal":"26",
+		"protanopia":"6",
+		"deuter" :"2"
+
+	},
+	{
+
+		"question":"What do you see?",
+		"option1":"4",
+		"option2":"42",
+		"option3":"2",
+		"option4":"Nothing",
+		"normal":"42",
+		"protanopia":"2",
+		"deuter" :"4"
+
+	},
+	{
+
+		"question":"What do you see?",
+		"option1":"5",
+		"option2":"3",
+		"option3":"35",
+		"option4":"Nothing",
+		"normal":"35",
+		"protanopia":"5",
+		"deuter" :"3"
+
+
+	},
+	{
+		"question":"What do you see?",
+		"option1":"96",
+		"option2":"6",
+		"option3":"9",
+		"option4":"Nothing",
+		"normal":"96",
+		"protanopia":"6",
+		"deuter" :"9"
+
+	},
+	{
+		"question":"What do you see?",
+		"option1":"Purple and Red",
+		"option2":"Purple",
+		"option3":"Red",
+		"option4":"Nothing",
+		"normal":"Purple and Red",
+		"protanopia":"Purple",
+		"deuter" :"Red"
+
+	},
+	{
+		"question":"What do you see?",
+		"option1":"Purple and Red",
+		"option2":"Purple",
+		"option3":"Red",
+		"option4":"Nothing",
+		"normal":"Purple and Red",
+		"protanopia":"Purple",
+		"deuter" :"Red"
+
+	}
+
+]
+}
