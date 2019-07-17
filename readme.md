@@ -1,3 +1,10 @@
+<h1 align="center">DALTONS</h1>
+
+![Screenshot](first.png)
+![Screenshot](second.png)
+![Screenshot](third.png)
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
