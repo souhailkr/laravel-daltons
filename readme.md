@@ -1,4 +1,4 @@
-<h1 align="center">DALTONS</h1>
+<h1 align="center">DALTONS website</h1>
 
 ![Screenshot](first.png)
 ![Screenshot](second.png)
